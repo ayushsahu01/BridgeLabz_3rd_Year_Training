@@ -1,13 +1,48 @@
-# BridgeLabz_3rd_Year_Training
+*This is a Readme File*
 
-***Day 1*** 
-    Topics Studied :  Git Programming: Git vs GitHub, Repo, Branch, Merge, Commits, Push, Pull, Version History and Messages.
-    <hr>
+<hr>
 
-***Day 2***
-    Topics Studied : Basic Elements of Programming: Variables, Literals, Primitive Data Types, Basic I/O, Operators, Primitive Data Types, var  keyword, Variable Scope.
-    <hr>
+**Day 1**
 
-***Day 3***
-    Topics Studied : Programming Constructs: Sequence, Selection, Iteration, For-Each loop, Transfer statements.
-    <hr>
+*Topic: *Git Programming**
+
+
+`Content`: Git vs GitHub, Repo, Branch, Merge, Commits, Push, Pull, Version History and Messages.
+
+
+Learned the basics of git and github
+
+<hr>
+
+**Day 2**
+
+*Topic: *JAVA Architecture**
+
+
+`Content`: Class Loader, Runtime Data Area, Execution Engine, Native Method Library and Native Method Interface.
+
+Studied the Java Architecture and its subtypes.
+
+<hr>
+
+**Day 3**
+
+*Topic: *Basic Elements of Programming**
+
+
+`Content`: Variables, Literals, Primitive Data Types, Basic I/O, Operators, Primitive Data Types, var keyword, Variable Scope.
+
+Studied Java Basics in-depth 
+
+<hr>
+
+**Day 4**
+
+*Topic: *Programming Constructs**
+
+
+`Content`: Sequence, Selection, Iteration, For-Each loop, Transfer statements
+
+Studied about loops in java and did some coding problems which was assigned in class and made a Calculator for basic programs.
+
+<hr>
