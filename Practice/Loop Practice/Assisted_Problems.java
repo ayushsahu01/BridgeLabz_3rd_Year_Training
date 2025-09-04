@@ -1,4 +1,3 @@
-package Practise;
 import java.util.*;
 public class Assisted_Problems {
     public static void main(String[] args) {

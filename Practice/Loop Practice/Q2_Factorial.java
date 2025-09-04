@@ -1,5 +1,3 @@
-package Practise;
-
 public class Q2_Factorial {
     public static void main(String[] args) {
         int n = 5;

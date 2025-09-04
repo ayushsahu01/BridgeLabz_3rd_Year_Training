@@ -1,5 +1,3 @@
-package Practise;
-
 public class Q5_Palindrome {
     public static void main(String[] args) {
         int num3 = 121;

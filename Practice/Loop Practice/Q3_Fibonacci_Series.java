@@ -1,5 +1,3 @@
-package Practise;
-
 public class Q3_Fibonacci_Series {
     public static void main(String[] args) {
         int n2 = 10;
