@@ -1,0 +1,6 @@
+Polymorphism => 1- Compile Time(static or early) [Overloading]
+                2- Runtime (Dynamic or late) [Overriding]
+
+            Caller Method | Calling 
+            
+    Method overloading => Type, No, Order of Argument 
