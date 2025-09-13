@@ -4,8 +4,8 @@ class Child1 extends Parent{
     //     System.out.println("Hii I am Child!!");
     // }
     public void sub(int a, int b){
-        super.marks=98;
-        super.add(5, 5);;
+        // super.marks=98;
+        // super.add(5, 5);
         System.out.println(a - b);
     }
 }

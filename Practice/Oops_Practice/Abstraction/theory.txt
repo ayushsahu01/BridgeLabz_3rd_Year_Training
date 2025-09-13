@@ -1,0 +1,8 @@
+class | abstract class | Interface
+Non Concrete Method = public abstract void add();
+Concrete Method = public static void add(){
+                    }
+
+
+Interface => Coding contract between two enties;
+Interface -> Class = Implements
