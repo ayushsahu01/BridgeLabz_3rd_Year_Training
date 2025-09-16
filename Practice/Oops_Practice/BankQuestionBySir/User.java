@@ -1,4 +1,4 @@
-package Practice.Oops_Practice.BankQuestionBySir;
+package BankQuestionBySir;
 
 public class User {
     private String userName;

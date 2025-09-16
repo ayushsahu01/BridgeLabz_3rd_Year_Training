@@ -1,4 +1,4 @@
-package Practice.Oops_Practice.BankQuestionBySir;
+package BankQuestionBySir;
 
 import java.util.Scanner;
 
