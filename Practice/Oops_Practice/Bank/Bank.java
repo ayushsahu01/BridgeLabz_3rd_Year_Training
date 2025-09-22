@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Bank {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         IBankService bankService = new BankServiceImpl();
 
         while (true) {
@@ -17,8 +17,8 @@ public class Bank {
             System.out.println("6. Exit");
             System.out.print("\nEnter your choice: ");
 
-            int choice = scanner.nextInt();
-            scanner.nextLine(); 
+            int choice = sc.nextInt();
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1:
@@ -26,32 +26,32 @@ public class Bank {
                     break;
                     
                 case 2:
-                    // System.out.print("Enter Account Number: ");
-                    // long depositAccNo = scanner.nextLong();
+                    System.out.print("Enter Account Number: ");
+                    long depositAccNo = sc.nextLong();
                     bankService.deposit();
                     break;
                     
                 case 3:
-                    // System.out.print("Enter Account Number: ");
-                    // long withdrawAccNo = scanner.nextLong();
+                    System.out.print("Enter Account Number: ");
+                    long withdrawAccNo = sc.nextLong();
                     bankService.withdraw();
                     break;
                     
                 case 4:
-                    // System.out.print("Enter Account Number: ");
-                    // long balanceAccNo = scanner.nextLong();
+                    System.out.print("Enter Account Number: ");
+                    long balanceAccNo = sc.nextLong();
                     bankService.checkBalance();
                     break;
                     
                 case 5:
-                    // System.out.print("Enter Account Number: ");
-                    // long detailsAccNo = scanner.nextLong();
+                    System.out.print("Enter Account Number: ");
+                    long detailsAccNo = sc.nextLong();
                     bankService.showUserDetails();
                     break;
                     
                 case 6:
                     System.out.println("Thank you for using our banking system!");
-                    scanner.close();
+                    sc.close();
                     System.exit(0);
                     
                 default:
